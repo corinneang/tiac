@@ -286,3 +286,7 @@ margin:0;
 padding: 0;
 height: auto;
 }
+
+::-webkit-scrollbar {
+    display: none;
+  }
