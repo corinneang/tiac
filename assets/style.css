@@ -192,7 +192,7 @@ div.flex-child2 > p{
 
 .content-contain {
     position: absolute;
-    height: calc(100vh + 130rem);
+    height: calc(100vh + 225rem);
 }
 
 .content {
@@ -236,6 +236,10 @@ button {
     border-radius: 15px;
     padding: 3px 10px 0 10px;
     height: 30px;
+}
+
+button:hover {
+    cursor:pointer;
 }
 
 .confront {
